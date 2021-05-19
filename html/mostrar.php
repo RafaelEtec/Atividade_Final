@@ -1,6 +1,6 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Cadastrar Produto</title>
+    <title>Visualizar Produtos</title>
 </head>
 </html>
